@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\zxc\zxc\bin\Debug\zxc.exe.config
+C:\Users\admin\source\repos\zxc\zxc\bin\Debug\zxc.exe
+C:\Users\admin\source\repos\zxc\zxc\bin\Debug\zxc.pdb
+C:\Users\admin\source\repos\zxc\zxc\obj\Debug\zxc.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\zxc\zxc\obj\Debug\zxc.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\zxc\zxc\obj\Debug\zxc.exe
+C:\Users\admin\source\repos\zxc\zxc\obj\Debug\zxc.pdb
